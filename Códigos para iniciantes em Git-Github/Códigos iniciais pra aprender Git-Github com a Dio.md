@@ -1,4 +1,4 @@
-# Códigos iniciais pra aprender Git/Github com a Dio :computer::computer_mouse:
+# Códigos iniciais para aprender Git/Github com a Dio :computer::computer_mouse:
 
 - **mkdir** - Cria Pasta.
 
